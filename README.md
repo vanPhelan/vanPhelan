@@ -2,7 +2,7 @@
 
 ## DOGGONE
 
-<img src="assets\images\doggone.jpg" alt="DOGGONE" width="333"/>
+<img src="https://raw.githubusercontent.com/vanPhelan/vanPhelan.github.io/main/assets/images/doggone.jpg" alt="DOGGONE" width="333"/>
 
 DOGGONE is a game from Raconteur Games. I primarily programmed the dog itself, but I also had a hand in many of the smaller systems in place, as well as a bit of technical art.
 
