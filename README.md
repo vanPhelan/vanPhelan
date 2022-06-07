@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Resume](https://raw.githubusercontent.com/vanPhelan/vanPhelan/main/resume.pdf)
+
 - 🔭 I’m currently working on demonstrating this readme.
 - 🌱 I’m currently learning new things.
 - 👯 I’m looking to collaborate on ...
