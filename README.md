@@ -6,7 +6,6 @@ I'm Van, and I make video games. I've been exploring the facets of game design s
 
 * [Resume](https://raw.githubusercontent.com/vanPhelan/vanPhelan/main/resume.pdf)
 * [LinkedIn](https://www.linkedin.com/in/van-phelan/)
-* [Email](mailto:van@wispentertainment.com)
 
 # Projects
 
