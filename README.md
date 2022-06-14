@@ -2,9 +2,10 @@
 
 Van has been passionately exploring game development their whole life. Ever since they received a hand-me-down Atari 2600 as a child, they've pondered how games can be made better, more fun, and more inclusive. Van would eventually graduate from the University of Louisiana at Lafayette with a BS in Computer Science and a concentration in Game Design and Development. They later co-founded Wisp Entertainment, where they were the sole programmer and designer for The Legend of Excalipurr. Van now teaches game programming at the Academy of Interactive Entertainment in Lafayette, Louisiana.
 
-## Resume
+## Links
 
-* [PDF](https://raw.githubusercontent.com/vanPhelan/vanPhelan/main/resume.pdf)
+* [Resume](https://raw.githubusercontent.com/vanPhelan/vanPhelan/main/resume.pdf)
+* [LinkedIn](https://www.linkedin.com/in/van-phelan/)
 
 # Projects
 
