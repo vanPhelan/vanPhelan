@@ -1,11 +1,12 @@
 # About Me
 
-Van has been passionately exploring game development their whole life. Ever since they received a hand-me-down Atari 2600 as a child, they've pondered how games can be made better, more fun, and more inclusive. Van would eventually graduate from the University of Louisiana at Lafayette with a BS in Computer Science and a concentration in Game Design and Development. They later co-founded Wisp Entertainment, where they were the sole programmer and designer for The Legend of Excalipurr. Van now teaches game programming at the Academy of Interactive Entertainment in Lafayette, Louisiana.
+I'm Van, and I make video games. I've been exploring the facets of game design since childhood, a passion that eventually led me down the path of programming. I'm a co-founder of Wisp Entertainment, and I now teach game programming and design at the Academy of Interactive Entertainment in Lafayette, Louisiana.
 
 ## Links
 
 * [Resume](https://raw.githubusercontent.com/vanPhelan/vanPhelan/main/resume.pdf)
 * [LinkedIn](https://www.linkedin.com/in/van-phelan/)
+* [Email](mailto:van@wispentertainment.com)
 
 # Projects
 
@@ -39,7 +40,7 @@ Fade was originally an entry to the 2021 Global Game Jam. "Lost and Found" was t
 
 <img src="assets\images\mazechaser.png" alt="Maze Chaser" width="333"/>
 
-Maze Chaser is a simplistic game developed as a Unity example for students. It uses no imported assets and is playable using mouse, keyboard, or gamepad, or touch screen.
+Maze Chaser is a simplistic game developed as a Unity example for students. It uses no imported assets and is playable using any one of mouse, keyboard, or gamepad, or touch screen.
 
 * [Repository](https://github.com/vanPhelan/Maze-Chaser)
 * [Web Player](https://vanphelan.github.io/Maze-Chaser/player/)
